@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RSUnityToolkit\Assets\Scripts\LoadLevel.cs">
+    <Files>
+      <File FileName="Assets\RSUnityToolkit\Assets\Scripts\LoadLevel.cs" Line="50" Column="32" />
+      <File FileName="Assets\RSUnityToolkit\Assets\Scripts\kaleDistance.cs" Line="58" Column="34" />
+      <File FileName="Assets\RSUnityToolkit\Assets\Scripts\MirrorDistance.cs" Line="6" Column="2" />
+      <File FileName="Assets\RSUnityToolkit\Actions\TrackingAction.cs" Line="294" Column="1" />
+      <File FileName="Assets\RSUnityToolkit\Internals\Actions Utils\DrawImages.cs" Line="1" Column="1" />
+      <File FileName="Assets\RSUnityToolkit\Assets\Scripts\ScanRelease.cs" Line="18" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
